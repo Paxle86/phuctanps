@@ -1,0 +1,169 @@
+{
+  "sliders": [
+    {
+      "id": 1,
+      "image": "images/slider1.jpg",
+      "title": "Chào mừng đến với Trường Tiểu học Phúc Tân",
+      "description": "Nơi ươm mầm tài năng, kiến tạo tương lai"
+    },
+    {
+      "id": 2,
+      "image": "images/slider2.jpg",
+      "title": "Môi trường học tập hiện đại",
+      "description": "Phát triển toàn diện về đức, trí, thể, mỹ"
+    },
+    {
+      "id": 3,
+      "image": "images/slider3.jpg",
+      "title": "Tuyển sinh năm học 2024-2025",
+      "description": "Đăng ký ngay để được tư vấn chi tiết"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Ngày hội tư vấn tuyển sinh 2024",
+      "date": "15/03",
+      "time": "08:00 - 17:00",
+      "location": "Hội trường chính"
+    },
+    {
+      "id": 2,
+      "title": "Hội thảo hướng dẫn phụ huynh kỹ năng đọc sách cùng con",
+      "date": "20/03",
+      "time": "14:00 - 16:30",
+      "location": "Phòng đa năng"
+    },
+    {
+      "id": 3,
+      "title": "Cuộc thi học thuật 'Tri thức trẻ'",
+      "date": "01/04",
+      "time": "08:30 - 16:00",
+      "location": "Sân trường"
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "number": "150+",
+      "title": "Giải thưởng học sinh giỏi cấp quận"
+    },
+    {
+      "id": 2,
+      "number": "98%",
+      "title": "Tỷ lệ học sinh hoàn thành tốt chương trình"
+    },
+    {
+      "id": 3,
+      "number": "20+",
+      "title": "Giải thưởng cấp thành phố"
+    },
+    {
+      "id": 4,
+      "number": "25+",
+      "title": "Năm kinh nghiệm"
+    }
+  ],
+  "quickLinks": [
+    {
+      "id": 1,
+      "title": "Tuyển sinh",
+      "description": "Thông tin tuyển sinh các khối lớp",
+      "icon": "fas fa-graduation-cap",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": "Lịch học",
+      "description": "Thời khóa biểu các lớp",
+      "icon": "fas fa-calendar-alt",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": "Chương trình",
+      "description": "Chương trình đào tạo",
+      "icon": "fas fa-book-reader",
+      "url": "#"
+    },
+    {
+      "id": 4,
+      "title": "Đội ngũ",
+      "description": "Đội ngũ giáo viên",
+      "icon": "fas fa-users",
+      "url": "#"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Trường Tiểu học Phúc Tân đạt chuẩn quốc gia cấp độ 1 năm 2024",
+      "excerpt": "Trường Tiểu học Phúc Tân vinh dự được công nhận đạt chuẩn quốc gia cấp độ 1 năm 2024, đánh dấu bước ngoặt quan trọng trong quá trình phát triển của nhà trường.",
+      "content": "Trường Tiểu học Phúc Tân trân trọng thông báo đã vinh dự được Bộ Giáo dục và Đào tạo công nhận đạt chuẩn quốc gia cấp độ 1 năm 2024 như sau:\n\n1. Kết quả đánh giá:\n- Đạt 8/8 tiêu chuẩn về cơ sở vật chất, trang thiết bị dạy học\n- Đạt 5/5 tiêu chuẩn về đội ngũ cán bộ quản lý, giáo viên và nhân viên\n- Đạt 3/3 tiêu chuẩn về chất lượng giáo dục\n- Đạt 2/2 tiêu chuẩn về quản lý nhà trường\n\n2. Thành tích nổi bật:\n- 95% học sinh hoàn thành tốt các môn học\n- 100% giáo viên đạt chuẩn và trên chuẩn\n- Cơ sở vật chất được đầu tư đồng bộ, hiện đại\n- Môi trường giáo dục xanh, sạch, đẹp, an toàn\n\n3. Lễ đón nhận:\n- Thời gian: 9h00 ngày 20/5/2024\n- Địa điểm: Hội trường Trường Tiểu học Phúc Tân\n- Đại biểu tham dự: Đại diện Bộ GD&ĐT, Sở GD&ĐT Hà Nội, UBND quận Hoàn Kiếm, phòng GD&ĐT quận Hoàn Kiếm, các bậc phụ huynh và toàn thể cán bộ, giáo viên, nhân viên, học sinh nhà trường\n\n4. Định hướng phát triển:\n- Tiếp tục nâng cao chất lượng dạy và học\n- Phấn đấu đạt chuẩn quốc gia cấp độ 2 trong 5 năm tới\n- Xây dựng môi trường giáo dục toàn diện, hiện đại, hội nhập\n- Phát triển mô hình trường học thông minh, gắn với chuyển đổi số trong giáo dục\n\nTrường Tiểu học Phúc Tân xin chân thành cảm ơn sự hỗ trợ của các cấp lãnh đạo, sự đồng hành của quý phụ huynh và nỗ lực không ngừng của tập thể cán bộ, giáo viên, nhân viên và học sinh nhà trường trong suốt thời gian qua.\n\nMọi thông tin chi tiết xin liên hệ:\nVăn phòng Trường Tiểu học Phúc Tân\nĐịa chỉ: Số 12 P. Phúc Tân, Phúc Tân, Hoàn Kiếm, Hà Nội\nĐiện thoại: 024 3828 3421\nEmail: contact@phuctanps.com\n\nTrường Tiểu học Phúc Tân trân trọng thông báo!",
+      "image": "images/news1.jpg",
+      "date": "10/03/2024",
+      "category": "tin-tuc",
+      "author": "Ban Giám hiệu"
+    },
+    {
+      "id": 2,
+      "title": "Học sinh Trường Tiểu học Phúc Tân đạt giải Nhất cuộc thi Toán học trẻ",
+      "excerpt": "Em Nguyễn Minh Quân - học sinh lớp 5A1 của Trường Tiểu học Phúc Tân đã xuất sắc giành giải Nhất cuộc thi Toán học trẻ cấp Thành phố năm 2024.",
+      "content": "Vừa qua, tại Cung Văn hóa Thiếu nhi Hà Nội đã diễn ra cuộc thi Toán học trẻ cấp Thành phố năm 2024 dành cho học sinh tiểu học. Trường Tiểu học Phúc Tân tự hào khi em Nguyễn Minh Quân - học sinh lớp 5A1 đã xuất sắc giành giải Nhất của cuộc thi.\n\nCuộc thi Toán học trẻ là sân chơi bổ ích, góp phần khơi dậy niềm đam mê môn Toán học cho các em học sinh tiểu học. Đây cũng là dịp để các em được giao lưu, học hỏi và phát triển tư duy logic, sáng tạo.\n\nEm Nguyễn Minh Quân đã vượt qua hơn 500 thí sinh đến từ 30 trường tiểu học trên địa bàn thành phố Hà Nội để giành được giải Nhất đầy thuyết phục. Em đã xuất sắc hoàn thành bài thi với số điểm gần như tuyệt đối 48/50. Đây là thành quả xứng đáng cho quá trình học tập chăm chỉ, nghiêm túc của em.\n\nThầy Nguyễn Văn A - Hiệu trưởng Trường Tiểu học Phúc Tân chia sẻ: \"Chúng tôi rất tự hào về thành tích của em Quân. Đây không chỉ là vinh dự của cá nhân em và gia đình, mà còn là niềm tự hào của toàn trường. Thành tích này cũng phần nào khẳng định chất lượng giảng dạy của đội ngũ giáo viên nhà trường, đặc biệt là tổ Toán học\".\n\nCô Trần Thị B - giáo viên chủ nhiệm kiêm giáo viên dạy Toán của lớp 5A1 không giấu được niềm vui: \"Quân là một học sinh thông minh, ham học hỏi và đặc biệt có năng khiếu về Toán học. Em luôn tích cực tham gia các hoạt động học tập, chịu khó suy nghĩ và tìm tòi cách giải các bài toán khó. Giải thưởng này là động lực để Quân tiếp tục phát triển đam mê với môn Toán trong tương lai\".\n\nSau cuộc thi cấp Thành phố, em Nguyễn Minh Quân sẽ tiếp tục đại diện cho Hà Nội tham dự cuộc thi Toán học trẻ toàn quốc dự kiến diễn ra vào tháng 5/2024 tại Thành phố Hồ Chí Minh.\n\nCùng với em Quân, đội tuyển Toán học của Trường Tiểu học Phúc Tân cũng đạt thành tích xuất sắc với 1 giải Nhất, 2 giải Nhì và 3 giải Ba, góp phần đưa trường xếp hạng 3 trong tổng số 30 trường tham gia cuộc thi.\n\nToàn thể Ban Giám hiệu, giáo viên và học sinh Trường Tiểu học Phúc Tân xin chúc mừng em Nguyễn Minh Quân và đội tuyển Toán học của trường. Chúc các em tiếp tục phát huy thành tích, đạt kết quả cao trong các kỳ thi sắp tới.",
+      "image": "images/news2.jpg",
+      "date": "05/03/2024",
+      "category": "thanh-tich",
+      "author": "Ban Truyền thông"
+    },
+    {
+      "id": 3,
+      "title": "Trường Tiểu học Phúc Tân tổ chức thành công Hội khỏe Phù Đổng cấp trường",
+      "excerpt": "Hội khỏe Phù Đổng là sân chơi bổ ích, tạo điều kiện cho học sinh rèn luyện thể lực và phát triển kỹ năng thể thao, đồng thời khuyến khích tinh thần đoàn kết và hợp tác giữa các lớp.",
+      "content": "Sáng ngày 25/02/2024, trong không khí tưng bừng và đầy hứng khởi, Trường Tiểu học Phúc Tân đã tổ chức Lễ khai mạc Hội khỏe Phù Đổng cấp trường năm học 2023-2024 với chủ đề \"Khỏe để học tập và xây dựng tương lai\".\n\nBuổi lễ có sự tham dự của Ban Giám hiệu nhà trường, đại diện Hội đồng Phụ huynh học sinh, các thầy cô giáo và đông đảo học sinh toàn trường. Đặc biệt, hội khỏe năm nay còn vinh dự đón tiếp vận động viên Nguyễn Thị Lan Anh - cựu học sinh của trường, đã giành huy chương bạc tại SEA Games 32 môn điền kinh.\n\nPhát biểu khai mạc, thầy Nguyễn Văn A - Hiệu trưởng nhà trường nhấn mạnh: \"Hội khỏe Phù Đổng không chỉ là sân chơi thể thao mà còn là nơi các em học sinh thể hiện tinh thần đoàn kết, ý chí vươn lên và rèn luyện kỹ năng sống. Qua đó, góp phần thực hiện mục tiêu giáo dục toàn diện của nhà trường, đào tạo những con người phát triển cả về trí lực và thể lực, đáp ứng yêu cầu xây dựng và bảo vệ Tổ quốc trong thời đại mới.\"\n\nHội khỏe năm nay bao gồm nhiều môn thi đấu phong phú như: điền kinh (chạy 60m, 100m, nhảy xa, nhảy cao), bóng đá nam, bóng chuyền nam-nữ, kéo co. Đặc biệt, năm nay Ban tổ chức bổ sung thêm các môn thể thao dân gian như nhảy bao bố, đi cà kheo, đẩy gậy... nhằm tạo không khí vui tươi, sôi nổi và gắn kết các thế hệ học sinh.\n\nMở đầu Hội khỏe là màn đồng diễn thể dục nghệ thuật đầy ấn tượng của gần 200 học sinh với chủ đề \"Tuổi trẻ Phúc Tân - Khỏe mạnh, Năng động, Sáng tạo\". Tiếp theo là các màn biểu diễn võ thuật, aerobic và nhảy hiện đại do các câu lạc bộ thể thao của trường thực hiện.\n\nLễ khai mạc kết thúc với nghi thức tuyên thệ của vận động viên, trọng tài và lễ châm ngọn đuốc truyền thống, chính thức mở đầu cho chuỗi hoạt động thi đấu thể thao sẽ diễn ra trong 2 tuần từ ngày 25/02 đến 10/03/2024.\n\nEm Phạm Minh Đức, học sinh lớp 5A5, thành viên đội tuyển bóng đá nam chia sẻ: \"Em rất háo hức và đã chuẩn bị kỹ lưỡng cho Hội khỏe năm nay. Đây không chỉ là cơ hội để thể hiện năng khiếu thể thao mà còn là dịp để các lớp đoàn kết, hỗ trợ nhau. Chúng em đặt mục tiêu sẽ giành được thứ hạng cao nhất để mang vinh dự về cho lớp.\"\n\nHội khỏe Phù Đổng là hoạt động thường niên của Trường Tiểu học Phúc Tân, góp phần tích cực vào việc thực hiện phong trào \"Toàn dân rèn luyện thân thể theo gương Bác Hồ vĩ đại\" và chương trình giáo dục thể chất trong nhà trường. Qua đó, không chỉ nâng cao sức khỏe thể chất mà còn bồi dưỡng tinh thần thể thao \"Nhanh hơn, cao hơn, mạnh hơn - Đoàn kết hơn\" cho thế hệ trẻ.",
+      "image": "images/news3.jpg",
+      "date": "25/02/2024",
+      "category": "hoat-dong",
+      "author": "Ban Thể dục Thể thao"
+    },
+    {
+      "id": 4,
+      "title": "Hướng dẫn sử dụng Cổng thông tin điện tử của Trường Tiểu học Phúc Tân",
+      "excerpt": "Hướng dẫn chi tiết cách thức đăng nhập, xem điểm, thời khóa biểu và các thông báo từ nhà trường trên Cổng thông tin điện tử dành cho phụ huynh và học sinh.",
+      "content": "Kính gửi Quý Phụ huynh và các em học sinh,\n\nTrường Tiểu học Phúc Tân xin gửi đến Quý vị hướng dẫn sử dụng Cổng thông tin điện tử của nhà trường. Cổng thông tin này được thiết kế nhằm tạo điều kiện thuận lợi cho phụ huynh và học sinh trong việc cập nhật thông tin, theo dõi kết quả học tập và các hoạt động của nhà trường.\n\nI. ĐĂNG NHẬP HỆ THỐNG\n\n1. Truy cập vào địa chỉ: https://phuctanps.com/portal\n2. Đăng nhập với tài khoản được cấp:\n   - Tên đăng nhập: Mã học sinh (đã được cung cấp trong sổ liên lạc)\n   - Mật khẩu mặc định: Ngày tháng năm sinh của học sinh (định dạng: ddmmyyyy)\n3. Sau khi đăng nhập lần đầu, vui lòng đổi mật khẩu để đảm bảo an toàn thông tin.\n\nII. CÁC CHỨC NĂNG CHÍNH\n\n1. Xem thông tin học sinh:\n   - Thông tin cá nhân\n   - Lớp học, giáo viên chủ nhiệm\n   - Lịch sử quá trình học tập\n\n2. Tra cứu kết quả học tập:\n   - Điểm kiểm tra thường xuyên\n   - Điểm kiểm tra định kỳ\n   - Nhận xét của giáo viên\n\n3. Xem thời khóa biểu:\n   - Thời khóa biểu hàng tuần\n   - Lịch học bổ sung (nếu có)\n\n4. Xem thông báo:\n   - Thông báo từ nhà trường\n   - Thông báo từ giáo viên chủ nhiệm\n   - Thông báo học phí, các khoản thu\n\n5. Đăng ký dịch vụ:\n   - Đăng ký bán trú\n   - Đăng ký xe đưa đón\n   - Đăng ký các câu lạc bộ\n\nIII. HƯỚNG DẪN SỬ DỤNG CÁC TÍNH NĂNG\n\n1. Đổi mật khẩu:\n   - Vào mục \"Tài khoản\" ở góc phải màn hình\n   - Chọn \"Đổi mật khẩu\"\n   - Nhập mật khẩu cũ và mật khẩu mới\n   - Nhấn \"Xác nhận\"\n\n2. Cập nhật thông tin liên lạc:\n   - Vào mục \"Tài khoản\" > \"Thông tin cá nhân\"\n   - Chọn \"Cập nhật thông tin\"\n   - Điền thông tin mới và nhấn \"Lưu\"\n\n3. Xem điểm số:\n   - Vào mục \"Kết quả học tập\"\n   - Chọn năm học, học kỳ cần xem\n   - Chọn môn học cụ thể hoặc xem tổng hợp\n\n4. Liên hệ với giáo viên:\n   - Vào mục \"Liên hệ\"\n   - Chọn \"Gửi tin nhắn cho giáo viên\"\n   - Soạn tin nhắn và gửi đi\n\nIV. LƯU Ý QUAN TRỌNG\n\n1. Bảo mật thông tin:\n   - Không chia sẻ tài khoản, mật khẩu cho người khác\n   - Đăng xuất khỏi hệ thống sau khi sử dụng xong\n   - Thường xuyên thay đổi mật khẩu\n\n2. Cập nhật thông tin:\n   - Vui lòng cập nhật thông tin liên lạc khi có thay đổi\n   - Kiểm tra hệ thống thường xuyên để không bỏ lỡ thông báo quan trọng\n\n3. Hỗ trợ kỹ thuật:\n   - Khi gặp vấn đề về đăng nhập hoặc sử dụng, vui lòng liên hệ:\n   - Email: hotro@phuctanps.com\n   - Điện thoại: 024.3828.3421 (trong giờ hành chính)\n\nRất mong nhận được sự phối hợp của Quý phụ huynh và các em học sinh trong việc sử dụng Cổng thông tin điện tử. Đây là kênh thông tin chính thức và quan trọng giúp kết nối giữa nhà trường, phụ huynh và học sinh.\n\nTrân trọng,\nBan Giám hiệu Trường Tiểu học Phúc Tân",
+      "image": "images/news4.jpg",
+      "date": "20/02/2024",
+      "category": "thong-bao",
+      "author": "Ban Công nghệ Thông tin"
+    },
+    {
+      "id": 5,
+      "title": "Chương trình giao lưu văn hóa với học sinh quốc tế",
+      "excerpt": "Nhằm tăng cường giao lưu văn hóa và nâng cao khả năng ngoại ngữ, Trường Tiểu học Phúc Tân vừa tổ chức buổi giao lưu với đoàn học sinh đến từ Nhật Bản.",
+      "content": "Ngày 15/02/2024, Trường Tiểu học Phúc Tân đã tổ chức buổi giao lưu văn hóa với đoàn học sinh đến từ Trường Tiểu học Sakura, Nhật Bản. Đây là hoạt động nằm trong khuôn khổ chương trình hợp tác giáo dục quốc tế mà nhà trường đang triển khai nhằm tạo cơ hội cho học sinh giao lưu, học hỏi và phát triển kỹ năng ngoại ngữ.\n\nĐoàn học sinh Nhật Bản gồm 15 em cùng 2 giáo viên đã có chuyến thăm và giao lưu kéo dài một ngày tại Trường Tiểu học Phúc Tân. Tham gia buổi giao lưu còn có 40 học sinh từ các lớp 4, 5 của trường đã được lựa chọn dựa trên khả năng ngoại ngữ và sự tích cực trong các hoạt động ngoại khóa.\n\nBuổi giao lưu diễn ra sôi nổi với nhiều hoạt động đa dạng như: giới thiệu về văn hóa, lịch sử, con người Việt Nam và Nhật Bản; trình diễn văn nghệ với các tiết mục đặc sắc như múa non, múa quạt, hát dân ca Việt Nam và biểu diễn trống Taiko, vũ điệu Yosakoi của Nhật Bản; cùng nhau tham gia các trò chơi dân gian và hoạt động nhóm.\n\nĐặc biệt, các em học sinh còn được tham gia vào các lớp học trải nghiệm về nghệ thuật gấp giấy Origami, thư pháp Shodo của Nhật Bản và nghệ thuật trang trí nón lá, vẽ tranh dân gian Đông Hồ của Việt Nam. Qua đó, học sinh hai trường có cơ hội tìm hiểu sâu hơn về văn hóa truyền thống của nhau.\n\nEm Nguyễn Thị Mai Anh, học sinh lớp 5A2, chia sẻ: \"Em rất vui và hào hứng khi được tham gia buổi giao lưu này. Đây là cơ hội tuyệt vời để em được thực hành tiếng Anh, đồng thời học hỏi thêm về văn hóa Nhật Bản. Những người bạn Nhật rất thân thiện và nhiệt tình, em đã kết bạn với nhiều bạn và chúng em hứa sẽ giữ liên lạc với nhau.\"\n\nThầy Tanaka Hiroshi, giáo viên Trường Tiểu học Sakura, bày tỏ: \"Học sinh Việt Nam rất thông minh, năng động và có khả năng ngoại ngữ tốt. Chúng tôi rất ấn tượng với sự hiếu khách và tài năng văn hóa nghệ thuật của các em. Chúng tôi hy vọng mối quan hệ hợp tác giữa hai trường sẽ ngày càng phát triển trong tương lai.\"\n\nBuổi giao lưu kết thúc với nghi thức trao quà lưu niệm và chụp ảnh kỷ niệm. Đây không chỉ là cơ hội để học sinh hai trường tăng cường hiểu biết về văn hóa, con người của hai quốc gia mà còn góp phần thúc đẩy tình hữu nghị giữa thế hệ trẻ Việt Nam và Nhật Bản.\n\nDự kiến trong năm học 2024-2025, Trường Tiểu học Phúc Tân sẽ tổ chức chương trình trao đổi học sinh với Trường Tiểu học Sakura, tạo điều kiện cho học sinh hai trường có cơ hội học tập và trải nghiệm sâu hơn về môi trường giáo dục của hai quốc gia.",
+      "image": "images/news5.jpg",
+      "date": "15/02/2024",
+      "category": "hoat-dong",
+      "author": "Ban Ngoại giao"
+    },
+    {
+      "id": 6,
+      "title": "Lịch nghỉ Tết Nguyên đán Giáp Thìn 2024",
+      "excerpt": "Trường Tiểu học Phúc Tân thông báo lịch nghỉ Tết Nguyên đán Giáp Thìn năm 2024 và kế hoạch học tập sau kỳ nghỉ Tết.",
+      "content": "THÔNG BÁO\nVề việc nghỉ Tết Nguyên đán Giáp Thìn năm 2024\n\nKính gửi: Quý phụ huynh và học sinh,\n\nCăn cứ vào Thông báo của Sở Giáo dục và Đào tạo Hà Nội về việc nghỉ Tết Nguyên đán Giáp Thìn năm 2024, Trường Tiểu học Phúc Tân trân trọng thông báo lịch nghỉ Tết và kế hoạch học tập sau kỳ nghỉ Tết như sau:\n\nI. Lịch nghỉ Tết Nguyên đán:\n\n1. Thời gian nghỉ Tết: Từ ngày 08/02/2024 (tức ngày 29 tháng Chạp năm Quý Mão) đến hết ngày 21/02/2024 (tức ngày 12 tháng Giêng năm Giáp Thìn).\n\n2. Thời gian quay trở lại trường: Ngày 22/02/2024 (tức ngày 13 tháng Giêng năm Giáp Thìn).\n\nII. Công tác chuẩn bị trước khi nghỉ Tết:\n\n1. Tất cả các lớp sẽ tổ chức tổng vệ sinh lớp học vào chiều ngày 07/02/2024.\n\n2. Các em học sinh cần hoàn thành nộp bài tập học kỳ 1 (nếu còn) trước khi nghỉ Tết.\n\n3. Nhà trường tổ chức hoạt động mừng Xuân và chúc Tết vào sáng ngày 07/02/2024.\n\nIII. Kế hoạch học tập sau kỳ nghỉ Tết:\n\n1. Tuần đầu tiên sau Tết (từ 22/02 đến 24/02/2024): \n   - Tổ chức ôn tập và củng cố kiến thức đã học trong học kỳ 1.\n   - Tiếp tục thực hiện chương trình học kỳ 2.\n\n2. Các hoạt động sau Tết:\n   - Tổ chức Hội khỏe Phù Đổng cấp trường: từ 25/02 đến 10/03/2024.\n   - Hội thi học sinh giỏi cấp trường: dự kiến tổ chức vào đầu tháng 3/2024.\n\nIV. Một số lưu ý quan trọng:\n\n1. Đề nghị phụ huynh quan tâm, nhắc nhở các em học sinh không tham gia các hoạt động mất an toàn trong dịp Tết như: đốt pháo, chơi các trò chơi có tính chất cờ bạc, đi lại trong khu vực đông người một mình, không có người lớn đi kèm.\n\n2. Khuyến cáo các em học sinh duy trì việc ôn tập, đọc sách trong dịp nghỉ Tết để không quên kiến thức và kỹ năng đã học.\n\n3. Nhà trường mong muốn Quý phụ huynh nhắc nhở các em chủ động thực hiện các biện pháp phòng, chống dịch bệnh trong dịp Tết, đặc biệt là các bệnh theo mùa.\n\nNhân dịp Xuân Giáp Thìn 2024, Ban Giám hiệu, tập thể giáo viên và nhân viên Trường Tiểu học Phúc Tân xin gửi đến Quý phụ huynh và các em học sinh lời chúc sức khỏe, hạnh phúc và thành công.\n\nTrân trọng,\nBan Giám hiệu Trường Tiểu học Phúc Tân",
+      "image": "images/news6.jpg",
+      "date": "08/02/2024",
+      "category": "thong-bao",
+      "author": "Ban Tổ chức Học sinh"
+    },
+    {
+      "id": 7,
+      "title": "Thông báo về việc tăng cường phòng, chống dịch bệnh COVID-19",
+      "excerpt": "Trường Tiểu học Phúc Tân thông báo kế hoạch tăng cường phòng, chống dịch bệnh COVID-19 trong thời gian tới.",
+      "content": "THÔNG BÁO\nVề việc tăng cường phòng, chống dịch bệnh COVID-19\n\nKính gửi: Quý phụ huynh và học sinh,\n\nTrong bối cảnh diễn biến phức tạp của dịch bệnh COVID-19 trên toàn cầu và tại Việt Nam, Trường Tiểu học Phúc Tân xin thông báo kế hoạch tăng cường phòng, chống dịch bệnh trong thời gian tới như sau:\n\nI. Tăng cường công tác vệ sinh môi trường:\n\n1. Tổ chức vệ sinh lớp học, khu vực trường học hàng ngày.\n\n2. Sử dụng dung dịch sát khuẩn, khử trùng các khu vực tiếp xúc nhiều như cửa ra vào, bàn ghế, tay nắm cửa, cầu thang, thang máy, toilet...\n\n3. Đảm bảo thông thoáng, sạch sẽ cho các phòng học, khu vực sinh hoạt.\n\nII. Hướng dẫn học sinh và giáo viên thực hiện các biện pháp phòng, chống dịch:\n\n1. Đeo khẩu trang khi ra ngoài, trong lớp học và các khu vực công cộng.\n\n2. Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn.\n\n3. Hạn chế tiếp xúc gần với người bệnh hoặc có triệu chứng cảm lạnh, sốt.\n\n4. Thực hiện giữ khoảng cách an toàn với người khác ít nhất 2 mét.\n\n5. Không tụ tập đông người, tránh đi lại trong khu vực đông người.\n\nIII. Hướng dẫn phụ huynh hỗ trợ nhà trường:\n\n1. Hướng dẫn học sinh thực hiện đúng các biện pháp phòng, chống dịch khi đến trường.\n\n2. Thông báo ngay cho nhà trường nếu học sinh có triệu chứng cảm lạnh, sốt hoặc tiếp xúc với người nghi nhiễm COVID-19.\n\n3. Hỗ trợ nhà trường trong việc tuyên truyền, hướng dẫn học sinh và gia đình thực hiện các biện pháp phòng, chống dịch.\n\nIV. Kế hoạch triển khai:\n\n1. Tất cả học sinh, giáo viên và nhân viên nhà trường phải thực hiện nghiêm túc các biện pháp phòng, chống dịch theo hướng dẫn của Bộ Y tế và Sở Giáo dục và Đào tạo.\n\n2. Nhà trường sẽ tiếp tục cập nhật thông tin về dịch bệnh và hướng dẫn cụ thể cho học sinh và phụ huynh.\n\n3. Khi có diễn biến mới của dịch bệnh, nhà trường sẽ có thông báo cụ thể về các biện pháp cần thực hiện.\n\nNhà trường rất mong nhận được sự phối hợp và hỗ trợ của Quý phụ huynh và học sinh trong việc thực hiện các biện pháp phòng, chống dịch bệnh COVID-19. Đây là công việc cần thiết để bảo vệ sức khỏe cộng đồng và đảm bảo an toàn cho môi trường học tập.\n\nTrân trọng,\nBan Giám hiệu Trường Tiểu học Phúc Tân",
+      "image": "images/news7.jpg",
+      "date": "01/02/2024",
+      "category": "thong-bao",
+      "author": "Ban Y tế"
+    }
+  ]
+}

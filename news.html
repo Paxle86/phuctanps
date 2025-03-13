@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tin tức - Sự kiện - Trường Tiểu học Phúc Tân</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./images/favicon.png">
+
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="top-header">
+            <div class="container">
+                <div class="logo">
+                    <img src="images/logo.png" alt="Logo Trường Tiểu học Phúc Tân">
+                </div>
+                <div class="school-info">
+                    <h1>TRƯỜNG TIỂU HỌC PHÚC TÂN</h1>
+                    <p>Chất lượng - Sáng tạo - Trách nhiệm</p>
+                </div>
+                <div class="search-box">
+                    <input type="text" placeholder="Tìm kiếm...">
+                    <button><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </div>
+        <nav>
+            <div class="container">
+                <ul class="main-menu">
+                    <li><a href="index.html">Trang chủ</a></li>
+                    <li><a href="about.html">Giới thiệu</a></li>
+                    <li><a href="#">Đào tạo</a></li>
+                    <li><a href="#">Tuyển sinh</a></li>
+                    <li class="active"><a href="news.html">Tin tức - Sự kiện</a></li>
+                    <li><a href="#">Thư viện</a></li>
+                    <li><a href="contact.html">Liên hệ</a></li>
+                </ul>
+                <div class="menu-toggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Page Banner -->
+    <section class="page-banner">
+        <div class="container">
+            <h2>Tin tức - Sự kiện</h2>
+            <div class="breadcrumb">
+                <a href="index.html">Trang chủ</a> / <span>Tin tức - Sự kiện</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- News Content -->
+    <section class="news-page">
+        <div class="container">
+            <div class="news-filter">
+                <div class="filter-container">
+                    <div class="filter-group">
+                        <label for="category">Danh mục:</label>
+                        <select id="category">
+                            <option value="all">Tất cả</option>
+                            <option value="school-news">Tin nhà trường</option>
+                            <option value="education">Giáo dục</option>
+                            <option value="activities">Hoạt động</option>
+                            <option value="awards">Thành tích</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="year">Năm:</label>
+                        <select id="year">
+                            <option value="all">Tất cả</option>
+                            <option value="2025">2025</option>
+                            <option value="2024">2024</option>
+                            <option value="2023">2023</option>
+                        </select>
+                    </div>
+                    <div class="search-news">
+                        <input type="text" id="news-search" placeholder="Tìm kiếm tin tức...">
+                        <button id="search-btn"><i class="fas fa-search"></i></button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="news-grid" id="news-grid">
+                <!-- News items will be loaded dynamically from JSON -->
+            </div>
+
+            <div class="pagination">
+                <button class="pagination-btn" id="prev-page" disabled><i class="fas fa-chevron-left"></i> Trước</button>
+                <div class="page-numbers" id="page-numbers">
+                    <span class="page-number active">1</span>
+                    <span class="page-number">2</span>
+                    <span class="page-number">3</span>
+                </div>
+                <button class="pagination-btn" id="next-page">Sau <i class="fas fa-chevron-right"></i></button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter Subscribe -->
+    <section class="newsletter-section">
+        <div class="container">
+            <div class="newsletter-content">
+                <div class="newsletter-text">
+                    <h3>Đăng ký nhận bản tin</h3>
+                    <p>Nhận thông tin mới nhất về các hoạt động, sự kiện và tin tức của trường Tiểu học Phúc Tân.</p>
+                </div>
+                <div class="newsletter-form">
+                    <form id="newsletter-subscribe">
+                        <input type="email" placeholder="Email của bạn" required>
+                        <button type="submit" class="btn-primary">Đăng ký</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-columns">
+                <div class="footer-column">
+                    <h3>Trường Tiểu học Phúc Tân</h3>
+                    <p><i class="fas fa-map-marker-alt"></i> Địa chỉ: Số 12 P. Phúc Tân, Phúc Tân, Hoàn Kiếm, Hà Nội</p>
+                    <p><i class="fas fa-phone"></i> Điện thoại: 024 3828 3421</p>
+                    <p><i class="fas fa-envelope"></i> Email: tuyensinh@phuctanps.com</p>
+                </div>
+                <div class="footer-column">
+                    <h3>Liên kết nhanh</h3>
+                    <ul>
+                        <li><a href="index.html">Trang chủ</a></li>
+                        <li><a href="about.html">Giới thiệu</a></li>
+                        <li><a href="news.html">Tin tức - Sự kiện</a></li>
+                        <li><a href="#">Tuyển sinh</a></li>
+                        <li><a href="contact.html">Liên hệ</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Kết nối với chúng tôi</h3>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                    <div class="newsletter">
+                        <h4>Đăng ký nhận tin</h4>
+                        <form id="newsletter-form">
+                            <input type="email" placeholder="Email của bạn" required>
+                            <button type="submit">Đăng ký</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Trường Tiểu học Phúc Tân. Tất cả quyền được bảo lưu.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trường Tiểu học Phúc Tân</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./images/favicon.png">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="top-header">
+            <div class="container">
+                <div class="logo">
+                    <img src="images/logo.png" alt="Logo Trường Tiểu học Phúc Tân">
+                </div>
+                <div class="school-info">
+                    <h1>TRƯỜNG TIỂU HỌC PHÚC TÂN</h1>
+                    <p>Chất lượng - Sáng tạo - Trách nhiệm</p>
+                </div>
+                <div class="search-box">
+                    <input type="text" placeholder="Tìm kiếm...">
+                    <button><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </div>
+        <nav>
+            <div class="container">
+                <ul class="main-menu">
+                    <li class="active"><a href="index.html">Trang chủ</a></li>
+                    <li><a href="about.html">Giới thiệu</a></li>
+                    <li><a href="#">Đào tạo</a></li>
+                    <li><a href="#">Tuyển sinh</a></li>
+                    <li><a href="news.html">Tin tức - Sự kiện</a></li>
+                    <li><a href="#">Thư viện</a></li>
+                    <li><a href="contact.html">Liên hệ</a></li>
+                </ul>
+                <div class="menu-toggle">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Slider -->
+    <section class="slider">
+        <div class="slider-container">
+            <div class="slider-wrapper">
+                <div class="slide active">
+                    <img src="images/slider1.jpg" alt="Slider 1">
+                    <div class="slide-caption">
+                        <h2>Chào mừng đến với Trường Tiểu học Phúc Tân</h2>
+                        <p>Nơi ươm mầm tài năng, kiến tạo tương lai</p>
+                    </div>
+                </div>
+                <div class="slide">
+                    <img src="images/slider2.jpg" alt="Slider 2">
+                    <div class="slide-caption">
+                        <h2>Môi trường học tập hiện đại</h2>
+                        <p>Phát triển toàn diện về đức, trí, thể, mỹ</p>
+                    </div>
+                </div>
+                <div class="slide">
+                    <img src="images/slider3.jpg" alt="Slider 3">
+                    <div class="slide-caption">
+                        <h2>Tuyển sinh năm học 2025-2026</h2>
+                        <p>Đăng ký ngay để được tư vấn chi tiết</p>
+                    </div>
+                </div>
+            </div>
+            <div class="slider-controls">
+                <button class="prev-btn"><i class="fas fa-chevron-left"></i></button>
+                <div class="slider-dots">
+                    <span class="dot active" data-slide="0"></span>
+                    <span class="dot" data-slide="1"></span>
+                    <span class="dot" data-slide="2"></span>
+                </div>
+                <button class="next-btn"><i class="fas fa-chevron-right"></i></button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Quick Links -->
+    <section class="quick-links">
+        <div class="container">
+            <div class="quick-link-item">
+                <i class="fas fa-graduation-cap"></i>
+                <h3>Tuyển sinh</h3>
+                <p>Thông tin tuyển sinh các khối lớp</p>
+                <a href="#" class="btn-link">Xem thêm</a>
+            </div>
+            <div class="quick-link-item">
+                <i class="fas fa-calendar-alt"></i>
+                <h3>Lịch học</h3>
+                <p>Thời khóa biểu các lớp</p>
+                <a href="#" class="btn-link">Xem thêm</a>
+            </div>
+            <div class="quick-link-item">
+                <i class="fas fa-book-reader"></i>
+                <h3>Chương trình</h3>
+                <p>Chương trình đào tạo</p>
+                <a href="#" class="btn-link">Xem thêm</a>
+            </div>
+            <div class="quick-link-item">
+                <i class="fas fa-users"></i>
+                <h3>Đội ngũ</h3>
+                <p>Đội ngũ giáo viên</p>
+                <a href="#" class="btn-link">Xem thêm</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- News -->
+    <section class="news-section">
+        <div class="container">
+            <h2 class="section-title">Tin tức - Sự kiện</h2>
+            <div class="news-container" id="news-container">
+                <!-- News items will be loaded dynamically from JSON -->
+            </div>
+            <div class="view-more">
+                <a href="news.html" class="btn-primary">Xem tất cả</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About -->
+    <section class="about-section">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2 class="section-title">Về chúng tôi</h2>
+                    <p>Trường Tiểu học Phúc Tân là một trong những trường Tiểu học có chất lượng giáo dục hàng đầu tại Việt Nam. Với phương châm "Chất lượng - Sáng tạo - Trách nhiệm", chúng tôi không ngừng nỗ lực để mang đến cho học sinh một môi trường học tập toàn diện.</p>
+                    <p>Trường có đội ngũ giáo viên giỏi chuyên môn, tận tâm với nghề, cơ sở vật chất hiện đại, đầy đủ tiện nghi phục vụ công tác dạy và học.</p>
+                    <a href="about.html" class="btn-primary">Tìm hiểu thêm</a>
+                </div>
+                <div class="about-image">
+                    <img src="images/about.jpg" alt="Trường Tiểu học Phúc Tân">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Achievement -->
+    <section class="achievement-section">
+        <div class="container">
+            <h2 class="section-title">Thành tích nổi bật</h2>
+            <div class="achievement-container">
+                <div class="achievement-item">
+                    <div class="achievement-icon">
+                        <i class="fas fa-medal"></i>
+                    </div>
+                    <div class="achievement-number">150+</div>
+                    <div class="achievement-title">Giải thưởng học sinh giỏi cấp thành phố</div>
+                </div>
+                <div class="achievement-item">
+                    <div class="achievement-icon">
+                        <i class="fas fa-user-graduate"></i>
+                    </div>
+                    <div class="achievement-number">98%</div>
+                    <div class="achievement-title">Tỷ lệ đỗ đại học</div>
+                </div>
+                <div class="achievement-item">
+                    <div class="achievement-icon">
+                        <i class="fas fa-trophy"></i>
+                    </div>
+                    <div class="achievement-number">20+</div>
+                    <div class="achievement-title">Giải thưởng cấp quốc gia</div>
+                </div>
+                <div class="achievement-item">
+                    <div class="achievement-icon">
+                        <i class="fas fa-award"></i>
+                    </div>
+                    <div class="achievement-number">15+</div>
+                    <div class="achievement-title">Năm kinh nghiệm</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Events -->
+    <section class="events-section">
+        <div class="container">
+            <h2 class="section-title">Sự kiện sắp tới</h2>
+            <div class="events-container">
+                <div class="event-item">
+                    <div class="event-date">
+                        <span class="day">15</span>
+                        <span class="month">Tháng 3</span>
+                    </div>
+                    <div class="event-info">
+                        <h3>Ngày hội tư vấn tuyển sinh 2025</h3>
+                        <p class="event-time"><i class="far fa-clock"></i> 08:00 - 17:00</p>
+                        <p class="event-location"><i class="fas fa-map-marker-alt"></i> Hội trường chính</p>
+                    </div>
+                </div>
+                <div class="event-item">
+                    <div class="event-date">
+                        <span class="day">20</span>
+                        <span class="month">Tháng 3</span>
+                    </div>
+                    <div class="event-info">
+                        <h3>Hội thảo hướng nghiệp cho học sinh lớp 12</h3>
+                        <p class="event-time"><i class="far fa-clock"></i> 14:00 - 16:30</p>
+                        <p class="event-location"><i class="fas fa-map-marker-alt"></i> Phòng đa năng</p>
+                    </div>
+                </div>
+                <div class="event-item">
+                    <div class="event-date">
+                        <span class="day">01</span>
+                        <span class="month">Tháng 4</span>
+                    </div>
+                    <div class="event-info">
+                        <h3>Cuộc thi học thuật "Tri thức trẻ"</h3>
+                        <p class="event-time"><i class="far fa-clock"></i> 08:30 - 16:00</p>
+                        <p class="event-location"><i class="fas fa-map-marker-alt"></i> Sân trường</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-columns">
+                <div class="footer-column">
+                    <h3>Trường Tiểu học Phúc Tân</h3>
+                    <p><i class="fas fa-map-marker-alt"></i> Địa chỉ: Số 12 P. Phúc Tân, Phúc Tân, Hoàn Kiếm, Hà Nội</p>
+                    <p><i class="fas fa-phone"></i> Điện thoại: 024 3828 3421</p>
+                    <p><i class="fas fa-envelope"></i> Email: tuyensinh@phuctanps.com</p>
+                </div>
+                <div class="footer-column">
+                    <h3>Liên kết nhanh</h3>
+                    <ul>
+                        <li><a href="index.html">Trang chủ</a></li>
+                        <li><a href="about.html">Giới thiệu</a></li>
+                        <li><a href="news.html">Tin tức - Sự kiện</a></li>
+                        <li><a href="#">Tuyển sinh</a></li>
+                        <li><a href="contact.html">Liên hệ</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Kết nối với chúng tôi</h3>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                    <div class="newsletter">
+                        <h4>Đăng ký nhận tin</h4>
+                        <form id="newsletter-form">
+                            <input type="email" placeholder="Email của bạn" required>
+                            <button type="submit">Đăng ký</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Trường Tiểu học Phúc Tân. Tất cả quyền được bảo lưu.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
